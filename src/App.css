@@ -5,6 +5,9 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  /* animation-name: fadeInOut, moveLeft300px, bounce;
+animation-duration: 2.5s, 5s, 1s;
+animation-iteration-count: 2, 1, 5; */
 }
 
 @media (prefers-reduced-motion: no-preference) {
